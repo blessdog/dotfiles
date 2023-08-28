@@ -1,0 +1,23 @@
+├── init.lua ( main init.lua )
+│
+├── lua
+│   │
+│   ├── core
+│   │   ├── default_config.lua
+│   │   ├── mappings.lua
+│   │   ├── utils.lua 
+│   │   └── init.lua  
+│   │
+│   ├── plugins
+│   │    ├── init.lua 
+│   │    └── configs
+│   │        ├── cmp.lua
+│   │        └── other configs
+│   │  
+│   │   USER CONFIG  
+│   │  
+│   ├── custom *
+│   │   ├── chadrc.lua
+│   │   ├── init.lua
+│   │   ├── more files, dirs
+
